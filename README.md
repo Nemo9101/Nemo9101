@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nemo9101
-- 👀 I’m interested in entrepreneurship
+- 👀 I’m interested in entrepreneurship/Cryptocurrency
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me twitter @oscar65221966
 
